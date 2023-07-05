@@ -7,3 +7,6 @@ assets/sounds/
 misc/
 archive/
 *.bak
+
+# releases should be published seperately
+*.zip
